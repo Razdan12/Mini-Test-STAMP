@@ -10,19 +10,19 @@
 
 ###
 <h3 align="left">Code</h3>
-###
+
 <div align="center">
-  <img height="200" src="./screenShoot/soal1.png"  />
+  <img src="./screenShoot/soal1.png"  />
 </div>
 
 ###
 
-<p align="left">Result</p>
+<h3 align="left">Result</h3>
 
 ###
 
 <div align="center">
-  <img height="200" src="./screenShoot/result soal 1.png"  />
+  <img src="./screenShoot/result soal 1.png"  />
 </div>
 
 ###
@@ -36,19 +36,19 @@
 
 ###
 <h3 align="left">Code</h3>
-###
+
 <div align="center">
-  <img height="200" src="./screenShoot/soal2.png"  />
+  <img  src="./screenShoot/soal2.png"  />
 </div>
 
 ###
 
-<p align="left">Result</p>
+<h3 align="left">Result</h3>
 
 ###
 
 <div align="center">
-  <img height="200" src="./screenShoot/result soal 2.png"  />
+  <img  src="./screenShoot/result soal 2.png"  />
 </div>
 
 ###
